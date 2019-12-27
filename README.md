@@ -1,6 +1,8 @@
 Chilitags 2: Robust Fiducial Markers for Augmented Reality and Robotics
 =====================================================================
 
+Testing tags.
+
 Chilitags are a C++ cross-platform software library for the detection and
 identification of 2D fiducial markers (a.k.a. tags).  Their purpose is to be printed and
 placed on objects from the real world, to form the basis of Robotics or
